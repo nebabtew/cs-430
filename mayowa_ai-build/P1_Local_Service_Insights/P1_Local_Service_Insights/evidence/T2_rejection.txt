@@ -1,0 +1,10 @@
+2026-10-05T01:59:55.544851Z 0 [System] [MY-013169] [Server] /tmp/p1_mysql/usr/sbin/mysqld (mysqld 8.0.46-0ubuntu0.24.04.3) initializing of server in progress as process 48
+2026-10-05T01:59:55.547879Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-10-05T01:59:55.609473Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-10-05T01:59:56.822637Z 5 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2026-10-05T01:59:57.225192Z 5 [ERROR] [MY-000061] [Server] 1452  Cannot add or update a child row: a foreign key constraint fails (`p1_local_services`.`BusinessService`, CONSTRAINT `fk_offering_business` FOREIGN KEY (`business_id`) REFERENCES `Business` (`business_id`) ON DELETE RESTRICT ON UPDATE RESTRICT).
+2026-10-05T01:59:57.225619Z 0 [ERROR] [MY-013236] [Server] The designated data directory /tmp/p1_offline_tests/T2/ is unusable. You can remove all files that the server added to it.
+2026-10-05T01:59:57.225631Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-10-05T01:59:58.204486Z 0 [System] [MY-010910] [Server] /tmp/p1_mysql/usr/sbin/mysqld: Shutdown complete (mysqld 8.0.46-0ubuntu0.24.04.3)  (Ubuntu).
+
+Expected MySQL client error category: 1452. Initialization logs the corresponding engine error; the intentional-error instance is separate from the real successful snapshot.

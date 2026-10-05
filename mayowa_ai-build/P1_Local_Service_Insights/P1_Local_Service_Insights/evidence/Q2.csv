@@ -1,0 +1,14 @@
+business_id,business_name,service_name,source_url,raw_row_id,raw_file_path
+5,A to Z Auto Repair,Oil change,https://www.atozautorepaircolumbia.com/,O05,data/raw/observations.csv
+4,All-Star Automotive,Oil change,https://www.allstarcolumbia.com/all-star-automotive-west,O04,data/raw/observations.csv
+6,Automotive Specialist,Oil change,https://automotivespecialistmo.net/services/,O06,data/raw/observations.csv
+12,Big O Tires,Oil change,https://www.bigotires.com/location/mo/columbia/2300-business-loop-70-e-65201/025001,O12,data/raw/observations.csv
+3,Columbia Car Care and Fleet Specialties,Oil change,https://www.automobilerepaircolumbia.net/,O03,data/raw/observations.csv
+15,Dobbs Tire & Auto Centers,Oil change,https://www.gotodobbs.com/auto-service/,O15,data/raw/observations.csv
+11,Firestone Complete Auto Care,Oil change,https://www.firestonecompleteautocare.com/missouri/columbia/703-business-loop-70-w/,O11,data/raw/observations.csv
+10,Jiffy Lube,Oil change,https://www.jiffylube.com/locations/mo/columbia/1113,O10,data/raw/observations.csv
+9,Midas,Oil change,https://www.midas.com/store/mo/columbia/1201-business-loop-70-east-65201?shopnum=5750,O09,data/raw/observations.csv
+14,Norris Full Service Automotive LLC,Oil change,https://norrisfullserviceauto.com/services/,O14,data/raw/observations.csv
+7,Plaza Tire Service,Oil change,https://www.plazatireservice.com/locations/mo/columbia/auto-repair-419-e-broadway,O07,data/raw/observations.csv
+2,Tom's Auto & Imports,Oil change,https://www.tomsauto.net/,O02,data/raw/observations.csv
+13,Walt's Service Inc.,Oil change,https://www.waltsserviceinc.net/Columbia-quick-lube-services.html,O13,data/raw/observations.csv

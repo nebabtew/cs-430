@@ -1,0 +1,16 @@
+# Result T4_1
+1	Fixture Alpha
+
+# Result T4_2
+1	Fixture Service A	1
+2	Fixture Service B	\N
+
+# Result T4_3
+1	Fixture Alpha	Fixture City
+
+# Result T4_4
+1	Fixture Service A	2
+2	Fixture Service B	1
+
+# Result T4_5
+1	Fixture Service A	2

@@ -1,0 +1,10 @@
+2026-10-05T01:59:58.265045Z 0 [System] [MY-013169] [Server] /tmp/p1_mysql/usr/sbin/mysqld (mysqld 8.0.46-0ubuntu0.24.04.3) initializing of server in progress as process 89
+2026-10-05T01:59:58.268818Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-10-05T01:59:58.335185Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-10-05T01:59:59.614942Z 5 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2026-10-05T02:00:00.070111Z 5 [ERROR] [MY-000061] [Server] 1062  Duplicate entry '1-2' for key 'BusinessService.PRIMARY'.
+2026-10-05T02:00:00.070493Z 0 [ERROR] [MY-013236] [Server] The designated data directory /tmp/p1_offline_tests/T3/ is unusable. You can remove all files that the server added to it.
+2026-10-05T02:00:00.070503Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-10-05T02:00:01.106564Z 0 [System] [MY-010910] [Server] /tmp/p1_mysql/usr/sbin/mysqld: Shutdown complete (mysqld 8.0.46-0ubuntu0.24.04.3)  (Ubuntu).
+
+Expected MySQL client error category: 1062. Initialization logs the corresponding engine error; the intentional-error instance is separate from the real successful snapshot.

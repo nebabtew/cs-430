@@ -1,0 +1,6 @@
+raw_row_id,field,before,after,rule,reason
+B04,address,7 North 1st Street,7 N 1st St,R1 text and location standardization,North/Street abbreviations identify the same verified selected location.
+O11,service_wording,Oil & Filter Change,Oil change,R2 controlled service classification,Explicit oil/filter change is included in the Oil change type.
+O17,service_wording,Brake Repair & Replacement,Brake service,R2 controlled service classification,Explicit repair/replacement supports the Brake service type.
+E01,business identity,Custom Complete Automotive,Dobbs Tire & Auto Centers (business_id 15),R1 identity consolidation,Current provider explicitly confirms rebranding; old name does not add a business.
+E02,business identity,Mutrux Auto,Norris Full Service Automotive LLC (business_id 14),R1 identity consolidation,Current provider explicitly confirms ownership/name change.

@@ -1,0 +1,16 @@
+business_id,business_name,address,city,website,identity_source_id,identity_raw_row_id,location_source_id,location_raw_row_id
+1,Midwest Autoworx,2001 Rangeline St,Columbia,https://www.midwestautoworx.com/services,1,B01,1,B01
+2,Tom's Auto & Imports,1200 Coats Street,Columbia,https://www.tomsauto.net/,2,B02,2,B02
+3,Columbia Car Care and Fleet Specialties,900 Old 63 North,Columbia,https://www.automobilerepaircolumbia.net/,3,B03,3,B03
+4,All-Star Automotive,7 N 1st St,Columbia,https://www.allstarcolumbia.com/all-star-automotive-west,4,B04,4,B04
+5,A to Z Auto Repair,1001 Business Loop 70 East,Columbia,https://www.atozautorepaircolumbia.com/,5,B05,5,B05
+6,Automotive Specialist,1201 Old 63 N,Columbia,https://www.automotivespecialistmo.com/get-directions/,6,B06,6,B06
+7,Plaza Tire Service,419 E Broadway,Columbia,https://www.plazatireservice.com/locations/mo/columbia/auto-repair-419-e-broadway,17,B07,17,B07
+8,GAPS Automotive,1909 Vandiver Dr,Columbia,https://gapsautomotiveinc.com/brake-service-repair/,8,B08,8,B08
+9,Midas,1201 Business Loop 70 East,Columbia,https://www.midas.com/store/mo/columbia/1201-business-loop-70-east-65201?shopnum=5750,9,B09,9,B09
+10,Jiffy Lube,2107 W Worley St,Columbia,https://www.jiffylube.com/locations/mo/columbia/1113,10,B10,10,B10
+11,Firestone Complete Auto Care,703 Business Loop 70 W,Columbia,https://www.firestonecompleteautocare.com/missouri/columbia/703-business-loop-70-w/,11,B11,11,B11
+12,Big O Tires,2300 Business Loop 70 E,Columbia,https://www.bigotires.com/location/mo/columbia/2300-business-loop-70-e-65201/025001,12,B12,12,B12
+13,Walt's Service Inc.,1204 N College Ave,Columbia,https://www.waltsserviceinc.net/Columbia-quick-lube-services.html,13,B13,13,B13
+14,Norris Full Service Automotive LLC,2100 West Rollins Rd,Columbia,https://norrisfullserviceauto.com/services/,14,B14,14,B14
+15,Dobbs Tire & Auto Centers,215 S Providence Rd,Columbia,https://www.gotodobbs.com/locations/providence-rd-columbia/,15,B15,15,B15

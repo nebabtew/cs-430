@@ -1,0 +1,19 @@
+# Result T1_after_1
+8.0.46-0ubuntu0.24.04.3	1
+
+# Result T1_after_2
+businesses	15	15	1
+services	4	4	1
+categories	2	2	1
+distinct_offerings	20	20	1
+publishers	18	2	1
+
+# Result T1_after_3
+business_missing_identity_evidence	0
+business_missing_location_evidence	0
+offering_missing_source_evidence	0
+offering_missing_business	0
+offering_missing_service	0
+business_without_offering	0
+missing_required_business_text	0
+missing_source_fields	0
