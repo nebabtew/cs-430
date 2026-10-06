@@ -1,12 +1,11 @@
 # Local Service Insights — Project 1
 CS 284 / CS 430, Fall 2026. Columbia, Missouri automotive services.
-Team: Mayowa, Cailin, Nebiyu, Braiden.
-The instructor has approved this four-person team.
+Team: Nebiyu Habtemariam, Braiden Elsea, Mayowa Esan, Cailin Ewing.
 Team name: Local Service Insights.
 
 ## Submission status
 The database, source records, SQL queries, tests, report, and slides are complete.
-The instructor has approved the four-person roster. The remaining deliverable is one
+The team roster has four members. The remaining deliverable is one
 20-minute team video. Follow presentation/recording_script.md and upload the MP4 with
 this ZIP, or provide an accessible link if the submission system allows it. Replace the
 planned timestamps below with the actual recording times before submitting.
@@ -113,17 +112,18 @@ Q6 missing website: no real rows, because all 15 retained businesses have verifi
 T4 tests missing-data behavior in a separate fixture. Details and checks: evidence/query_checks.md.
 
 ## Team responsibilities and AI disclosure
-Mayowa supplied the project request and team roster. Presentation responsibilities are:
+The team roster and balanced responsibilities are:
 
 | Member | Main section | Individual explanation and query change |
 |---|---|---|
-| Mayowa | Model, keys, and normalization | Composite key; Q3 threshold from 1 to 2 |
-| Cailin | Sources and cleaning | Category relationship; Q2 oil change to brakes |
-| Nebiyu | Build and validation | Foreign key; Q1 Auto to Jiffy |
-| Braiden | Query results and limitations | NULL and LEFT JOIN; Q5 business 10 to 15 |
+| Nebiyu Habtemariam (`Nebabtew`) | Build coordination, schema, and validation | Foreign keys and build/reset process; Q1 modification |
+| Braiden Elsea (`Belsea05`) | Sources, cleaning, and evidence | Source trace and cleaning decisions; Q2 modification |
+| Mayowa Esan (`esanpelumi`) | Queries, results, and presentation/report review | Composite key and query results; Q3 modification |
+| Cailin Ewing (`cewing`) | ER diagram, normalization, and documentation | Relationships and normalization; Q5 modification |
 
-These are assigned responsibilities. Add each member's completed reviews, corrections,
-and recording work before submitting.
+These responsibilities are evenly distributed, but all members should review the
+complete project, verify the SQL results, and participate substantively in the
+recording.
 
 ChatGPT assisted with source discovery and collection, cleaning, SQL, debugging,
 validation, and writing. Business and service facts were checked against original public
@@ -132,14 +132,10 @@ observations, and execution logs are included so the results can be checked. Eac
 is responsible for understanding the schema and explaining their own query change.
 
 ## Planned video timestamp index
-00:00–03:00 Cailin: scope, source/raw trace, cleaning decision.
-03:00–07:00 Mayowa: ER model, keys, relationships and normalization.
-07:00–11:00 Nebiyu: build steps, real T1 counts and intentional FK rejection.
-11:00–15:00 Braiden: Q2, Q3, supported finding and limitations.
-15:00–16:15 Mayowa: individual design explanation and Q3 modification.
-16:15–17:30 Cailin: individual design explanation and Q2 modification.
-17:30–18:45 Nebiyu: individual design explanation and Q1 modification.
-18:45–20:00 Braiden: individual design explanation and Q5 modification.
+00:00–05:00 Nebiyu: scope, schema, build steps, and validation.
+05:00–10:00 Braiden: sources, cleaning, corroboration, and evidence trace.
+10:00–15:00 Mayowa: queries, results, and findings.
+15:00–20:00 Cailin: ER diagram, normalization, documentation, and limitations.
 Use actual recording timestamps in this index before submission. Each member must appear,
 identify themselves, speak substantively, and show their own query modification results.
 
